@@ -2,7 +2,6 @@
 
 - 📝 More information about my research and papers are available on my Google Scholar profile at [https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en](https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en)
 
-- 📄 Get to know me better at [https://www.linkedin.com/in/siavash-hosseini/](https://www.linkedin.com/in/siavash-hosseini/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
