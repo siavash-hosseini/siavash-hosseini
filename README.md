@@ -1,6 +1,6 @@
 <h3 align="center">Doctoral Researcher, Electrical & Computer Engineering | AI Security Systems for Edge & IoT</h3>
 
-- 📝 More information about my research and papers are available on my Google Scholar profile at [https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en](https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en)
+- 📝 More information about my research and publications is available on my Google Scholar profile at [https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en](https://scholar.google.com/citations?user=7v09aVQAAAAJ&hl=en)
 
 
 <h3 align="left">Connect with me:</h3>
